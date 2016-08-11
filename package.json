@@ -1,0 +1,18 @@
+{
+  "name": "mac122build",
+  "version": "1.0.0",
+  "description": "Projetinho simples para fazer o build do meus projetos, verificar styleguide e colocar banner em em todos os meus aquivos",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "fs": "0.0.2",
+    "gulp-header": "^1.8.8"
+  }
+}

@@ -1,2 +1,2 @@
 # easyBuildC
-Projeto para build e tarefas rotineiras da faculdade em linguagem C
+Este é um projetinho simples para build das minhas tarefas da faculdade em linguagem C
